@@ -1,0 +1,21 @@
+mulai menuliskan section dalam bab kajian pustaka
+memakai google scholar untuk mencari referensi: perlu pemakaian cite pada latex
+klik double kutip pada google scholar, kemudian bimptex, copy ke references.bib
+selain jurnal yang ada si scholar, maka boleh menggunakan artikel bebas di internet, kemudian menggunakan fungsi @misc pada latex
+minimal ada 12 referensi pada proposal
+
+
+menulis rumus matematika
+
+
+bab tambahan : bab 4 premilinari result
+apa yang telah dikerjakan,
+future word:
+
+
+
+Tip:
+
+
+
+

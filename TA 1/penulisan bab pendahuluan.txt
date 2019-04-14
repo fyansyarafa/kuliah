@@ -1,0 +1,27 @@
+PENDAHULUAN
+par 2
+orang orang yang telah meneliti
+par 3
+solusi
+par 4
+goal/tujuan diimbangi dengan susunan penulisan seperti apa
+tip: di pendahuluan ada gambar
+
+rumusan masalah:
+maksimal 3
+
+tujuan:
+berhubungan dengan rumusan masalah,
+lebih gampang jika rumusan masalah sudah ada
+
+batasan masalah
+
+
+TUGAS
+cari biografi orang dan kesuksesannya
+minimal 4 paragraf
+dalam 1 paragraf minimal ada 2 kata penghubung, ada list kata penghubung
+
+OFFLINE
+compiler : Mitktex
+editor : TexMaker
